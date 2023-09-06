@@ -1,8 +1,8 @@
-pasta_grande 
+# pasta_grande 
 # ignorando a pasta inteira
 
 # pasta_grande/arquivo.js
 # ignorando arquivo específico dentro da pasta
 
-index.js
+# index.js
 # ignorando arquivo na pasta raiz do projeto
